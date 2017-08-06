@@ -9,5 +9,18 @@
         "name": "Christoph Schulze"
     },
     "items": [
+        {
+            "id": "https://ch-sc.github.io/hello-world.html",
+            "url": "https://ch-sc.github.io/hello-world.html",
+            "title": "Hello World!",
+            "content_html": "<p>Hi there and welcome to my virgin post. Please be&nbsp;gentle, we don't want to have bad memories&nbsp;this time.</p>\n<p>I'm a Berlin based 20-something guy that is into computer science. I speak quite a few programming languages and focus on building stable, fault-tolerant, and distributed systems. I'm also having interests in different areas of machine learning&nbsp;especially deep learing.&nbsp;</p>\n<p>Besides technology I like things like photography, hiking,&nbsp;volleyball and lots of outdoorsy activities. You may see posts that include these kind of things as well in the future.</p>\n<p>Have a good one for now.</p>\n<p>Cheers,<br>Chris</p>",
+            "author": {
+                "name": "Christoph Schulze"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-06T11:58:37+02:00",
+            "date_modified": "2017-08-06T11:55:24+02:00"
+        }
     ]
 }
